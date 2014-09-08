@@ -1,0 +1,1436 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EQuakeRealtime(USGS)
+</name>
+</assembly>
+<members>
+<member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._120px_Twitter_bird_logo_2012_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._350">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._as">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._do">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._do1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._error">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._in">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._is">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._is1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._to">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources._to1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ae">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.af">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ag">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.agt_action_success">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.al">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.am">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.an">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ao">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.applications_system">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.applications_system1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.applications_system2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ASS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.at">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.au">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.aw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.az">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.be">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.br">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bullet_error">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.by">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.bz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ca">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ci">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.circle_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ck">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.co">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.color_swatch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.color_wheel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.cz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.de">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.deletered">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.diagram_v2_13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.dj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.dk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.dm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.dz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mail1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mail2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mail3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mail4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.e_mailpp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.earth">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ec">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.eg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.eh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.email">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.email2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.emailVBBB">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.eqv20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.er">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.es">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.et">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.exclamation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.export">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.facebook">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.facebook_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.facebook1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.FacebookAppCenterlogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.file_doc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.file_html">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.file_pdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.file_txt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.flying_bird_sparkles">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.fx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ga">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gfz2012ubxu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gfz2012uffm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.GGG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.globe_vista">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.globe_vista1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_network_idle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_network_receive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_network_receive1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_network_receive2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_preferences_system">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_preferences_system_network">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_preferences_system1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_searchtool">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gnome_text_x_generic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.gy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.hk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.hm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.hn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.hr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ht">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.hu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.icon_quake">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.icon_tsunami">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.id">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ie">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.il">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.image_capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.info1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.information1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.intranet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.io">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.iq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.it">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.jm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.jo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.jp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ke">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ki">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.km">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ky">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.kz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.la">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.li">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.line_chart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.list_add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.list_remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.lv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ly">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ma">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mailEEE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.map_magnify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.md">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.media_playback_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.media_playback_start2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.media_playback_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.media_playback_stop2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.media_playback_stop3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ml">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ms">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.my">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.my_network_place">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.mz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.na">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ne">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.network">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.network_neighborhood">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.network_receive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.network1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.network2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ni">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.no">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.North_Korea_Flag_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.np">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.nz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.om">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.onebit_39">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ph">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.play_green_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.player_play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.player_play1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.player_play2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.pw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.py">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.qa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.re">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.remove1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.run">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.rw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.saveaa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.se">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.search1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security_firewall_on">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security_firewall_on1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security_firewall_on11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security_firewall_on2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.security1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.Serbia_Flag_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.si">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.so">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.st">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.staticmap">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.staticmap1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.sz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.Tbar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.td">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.text">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.twitter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.twitter1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.twitter2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.twitter3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.twitter4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.tz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ua">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ug">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.uh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.um">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.united_nations">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.us">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.uy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.uz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.va">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ve">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vEmil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.verisign_secured">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.vu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.warning">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.wf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.world">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.world_link">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.ye">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.yt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.yu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.yugo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.za">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.zm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EarthQuake_Realtime_Checker.My.Resources.Resources.zw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EarthQuake_Realtime_Checker.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

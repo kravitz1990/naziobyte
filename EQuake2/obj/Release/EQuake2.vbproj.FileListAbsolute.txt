@@ -1,0 +1,59 @@
+G:\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.exe
+G:\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.xml
+G:\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.pdb
+H:\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.xml
+H:\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.pdb
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbproj.ResolveComReference.cache
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake Realtime Checker.exe
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake Realtime Checker.xml
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake Realtime Checker.pdb
+C:\Users\Budick\Desktop\EarthQuake Realtime Checker.exe.config
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Banner.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.EmailManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.FacebookManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Form1.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmAbout.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmAddHost.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmConfig.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmFileExport.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmMailAccept.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmMapGenerate.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmTsunamiDetial.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Resources.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.NetworkCard.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.ServiceUpdate.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.soundDownloader.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.TwitManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.XColor.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbproj.GenerateResource.Cache
+C:\Users\Budick\Desktop\EarthQuake Realtime Checker.exe
+C:\Users\Budick\Desktop\EarthQuake Realtime Checker.pdb
+C:\Users\Budick\Desktop\EarthQuake Realtime Checker.xml
+C:\Users\Budick\Desktop\seTest\EarthQuake Realtime Checker.exe.config
+C:\Users\Budick\Desktop\seTest\EarthQuake Realtime Checker.exe
+C:\Users\Budick\Desktop\seTest\EarthQuake Realtime Checker.pdb
+C:\Users\Budick\Desktop\seTest\EarthQuake Realtime Checker.xml
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbprojResolveAssemblyReference.cache
+D:\Independex\seTest\EQuake Realtime (USGS).exe.config
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbproj.ResolveComReference.cache
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbprojResolveAssemblyReference.cache
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Banner.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.EmailManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.FacebookManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Form1.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmAbout.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmAddHost.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmConfig.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmFileExport.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmMailAccept.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmMapGenerate.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.frmTsunamiDetial.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.Resources.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.NetworkCard.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.ServiceUpdate.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.soundDownloader.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.TwitManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EarthQuake_Realtime_Checker.XColor.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbproj.GenerateResource.Cache
+C:\Users\Duke333\Dropbox\seTest\EQuake Realtime (USGS).exe.config
+C:\Users\Duke333\Dropbox\Public\QuakeFixer\EQuake2\EQuake2\obj\Release\EQuake2.vbproj.ResolveComReference.cache

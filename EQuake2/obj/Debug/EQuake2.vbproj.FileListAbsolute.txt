@@ -1,0 +1,62 @@
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbprojResolveAssemblyReference.cache
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Banner.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.EmailManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.FacebookManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Form1.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmAbout.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmAddHost.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmConfig.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmFileExport.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmMailAccept.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmMapGenerate.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmTsunamiDetial.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Resources.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.NetworkCard.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.ServiceUpdate.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.soundDownloader.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.TwitManage.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.XColor.resources
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbproj.GenerateResource.Cache
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).exe
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).xml
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).pdb
+C:\Users\Budick\Desktop\EQuake Realtime (USGS).exe.config
+C:\Users\Budick\Desktop\EQuake Realtime (USGS).exe
+C:\Users\Budick\Desktop\EQuake Realtime (USGS).pdb
+C:\Users\Budick\Desktop\EQuake Realtime (USGS).xml
+C:\Users\Budick\Desktop\New folder\EQuake Realtime (USGS).exe.config
+C:\Users\Budick\Desktop\New folder\EQuake Realtime (USGS).exe
+C:\Users\Budick\Desktop\New folder\EQuake Realtime (USGS).pdb
+C:\Users\Budick\Desktop\New folder\EQuake Realtime (USGS).xml
+C:\Users\Budick\Desktop\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbproj.ResolveComReference.cache
+D:\Independex\New folder\EQuake Realtime (USGS).exe.config
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbproj.ResolveComReference.cache
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).exe
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).xml
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake Realtime (USGS).pdb
+D:\Independex\New folder\EQuake Realtime (USGS).exe
+D:\Independex\New folder\EQuake Realtime (USGS).pdb
+D:\Independex\New folder\EQuake Realtime (USGS).xml
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbprojResolveAssemblyReference.cache
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Banner.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.EmailManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.FacebookManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Form1.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmAbout.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmAddHost.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmConfig.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmFileExport.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmMailAccept.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmMapGenerate.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.frmTsunamiDetial.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.Resources.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.NetworkCard.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.ServiceUpdate.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.soundDownloader.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.TwitManage.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EarthQuake_Realtime_Checker.XColor.resources
+D:\Independex\FileWorker\QuakeFixer\EQuake2\EQuake2\obj\Debug\EQuake2.vbproj.GenerateResource.Cache
+C:\Users\Dukezy\Desktop\IDXL\EQuake Realtime (USGS).exe.config
+C:\Users\Dukezy\Desktop\IDXL\EQuake Realtime (USGS).exe
+C:\Users\Dukezy\Desktop\IDXL\EQuake Realtime (USGS).pdb
+C:\Users\Dukezy\Desktop\IDXL\EQuake Realtime (USGS).xml

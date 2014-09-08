@@ -1,0 +1,1252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{110F8338-3BF8-4A1F-A7B6-B204FBC62C20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>EQuake2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>EQuake2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\</OutputPath>
+    <DocumentationFile>EQuake2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=8.8.0.0, Culture=neutral, PublicKeyToken=e116d99a00eca71b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DotNetBar\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TwitterVB">
+      <HintPath>..\..\..\twittervb-63382\TwitterVB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Banner.Designer.vb">
+      <DependentUpon>Banner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Banner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BitLyAPI.vb" />
+    <Compile Include="ColorSelection.vb" />
+    <Compile Include="EmailManage.Designer.vb">
+      <DependentUpon>EmailManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmailManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedQuake.vb" />
+    <Compile Include="FlagCountry.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfig.Designer.vb">
+      <DependentUpon>frmConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTsunami.Designer.vb">
+      <DependentUpon>frmTsunami.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTsunami.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPanel.vb" />
+    <Compile Include="QuakeAlert.vb" />
+    <Compile Include="SystemKernal.vb" />
+    <Compile Include="MapDownload.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Temp.vb" />
+    <Compile Include="Pubisher.vb" />
+    <Compile Include="SettingAsync.vb" />
+    <Compile Include="TSunamiWarning.vb" />
+    <Compile Include="TwitManage.Designer.vb">
+      <DependentUpon>TwitManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TwitManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UTCToLocaltime.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Banner.resx">
+      <DependentUpon>Banner.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailManage.resx">
+      <DependentUpon>EmailManage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfig.resx">
+      <DependentUpon>frmConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTsunami.resx">
+      <DependentUpon>frmTsunami.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TwitManage.resx">
+      <DependentUpon>TwitManage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\al.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\am.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\an.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ao.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\at.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\au.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\az.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ba.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\be.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bi.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bs.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\by.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ch.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ck.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\co.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cx.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\de.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\do.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ec.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ee.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\er.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\es.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\et.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fi.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fx.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ga.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ge.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gi.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gq.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ht.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ie.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\il.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\io.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iq.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\is.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\it.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ke.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ki.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\km.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ky.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\li.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ls.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ly.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ma.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\md.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ml.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mq.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ms.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mx.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\my.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\na.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ne.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ng.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ni.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\np.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\om.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ph.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\py.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\re.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ro.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ru.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\se.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sh.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\si.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\so.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\st.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\td.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\to.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ua.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ug.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\um.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\us.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\va.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ve.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vi.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ws.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ye.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yt.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\za.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ae.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\af.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ag.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ai.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eqv20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\as.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASS.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_do.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_to.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_in.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_is.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_tsunami.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120px-Earth_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_quake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288486.population.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288466.population.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288481.global.thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288491.EMMA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gfz2012ubxu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288512.local.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ak10578858_cy.gif.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staticmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staticmap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_searchtool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\101980627.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start-Menu-Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color_wheel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color_swatch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\288727.regional.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gfz2012uffm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applications_system.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_idle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applications_system1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_preferences_system.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_preferences_system1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_neighborhood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intranet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applications_system2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\get_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_preferences_system_network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_receive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_receive1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_network_receive2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GGG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e_mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e_mail1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mailEEE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vEmil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emailVBBB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e_mail2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_receive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_play1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_play2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_green_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_stop2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_start2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_stop3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verisign_secured.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssl-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_firewall_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_firewall_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_firewall_on11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_firewall_on2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssl-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram_v2_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120px-Twitter_bird_logo_2012.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120px-Twitter_bird_logo_2012.svg1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
